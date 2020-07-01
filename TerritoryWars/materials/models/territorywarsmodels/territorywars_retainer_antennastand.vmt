@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "models\territorywarsmodels\territorywars_retainer_antennastand_diffuse"
+	$bumpmap "models\territorywarsmodels\territorywars_retainer_antennastand_normal"
+}

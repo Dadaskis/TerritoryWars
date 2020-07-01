@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "models\territorywarsmodels\territorywars_MainComputer_accessor_diffuse"
+	$bumpmap "models\territorywarsmodels\territorywars_maincomputer_accessor_normal"
+}
