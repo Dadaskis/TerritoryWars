@@ -123,4 +123,6 @@ The addon is highly configurable through `territorywars.config.lua`. Key setting
 
 ## License
 
-MIT License. Happiness to everyone!
+MIT License. Happiness to everyone!...
+
+... It's tough to realize that I spent 6 months to make this thing to play with nearly nobody as a result. I guess I was the one left deceived.
