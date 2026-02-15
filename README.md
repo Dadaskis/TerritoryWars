@@ -86,7 +86,7 @@ TerritoryWars transforms your GMod server into a persistent territorial conflict
 ## Installation
 
 1. Download the repository
-2. Place the `TerritoryWars-master` folder in your `garrysmod/addons/` directory
+2. Place the `TerritoryWars` folder in your `garrysmod/addons/` directory
 3. Configure the addon by editing `lua/autorun/config/territorywars.config.lua`
 4. Restart your server or change the map
 
